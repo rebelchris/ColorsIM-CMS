@@ -1,0 +1,61 @@
+.bg-green {
+  background-color: #60d936;
+}
+
+.bg-red {
+  background-color: #ee210d;
+}
+
+.bg-blue {
+  background-color: #00a1ff;
+}
+
+.bg-yellow {
+  background-color: #fff056;
+}
+
+html,
+body {
+  background-color: #fff;
+  color: #636b6f;
+  font-family: "Nunito", sans-serif;
+  font-weight: 200;
+  height: 100vh;
+  margin: 0;
+}
+
+.user-list {
+  display: inline-block;
+  padding-left: 15px;
+}
+
+.user-list span {
+  display: inline-block;
+  width: 40px;
+  height: 20px;
+}
+
+.btn-mega {
+  width: 100%;
+  height: 100%;
+}
+
+.full-height {
+  height: 100vh;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.flex-center {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  font-size: 30px;
+}
+

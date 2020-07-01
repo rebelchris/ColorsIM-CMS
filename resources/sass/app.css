@@ -1,0 +1,69 @@
+.bg-green {
+  background-color: #60d936;
+}
+
+.bg-red {
+  background-color: #ee210d;
+}
+
+.bg-blue {
+  background-color: #00a1ff;
+}
+
+.bg-yellow {
+  background-color: #fff056;
+}
+
+html,
+body {
+  background-color: #fff;
+  color: #636b6f;
+  font-family: "Nunito", sans-serif;
+  font-weight: 200;
+  height: 100vh;
+  margin: 0;
+}
+
+.user-list {
+  display: inline-block;
+  padding-left: 15px;
+}
+
+.user-list span {
+  display: inline-block;
+  width: 40px;
+  height: 20px;
+}
+
+.btn-mega {
+  width: 100%;
+  height: 100%;
+}
+
+.full-height {
+  height: 100vh;
+}
+
+.grid {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 50% 50%;
+      grid-template-columns: 50% 50%;
+}
+
+.flex-center {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.title {
+  font-size: 30px;
+}
+/*# sourceMappingURL=app.css.map */
