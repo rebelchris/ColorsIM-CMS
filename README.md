@@ -1,6 +1,6 @@
 ## Colors IM Test
 
-This project is a test CMS to contribute to the Frontend build in Ionic.
+This project is a test CMS to contribute to the [ColorsIM App](https://github.com/rebelchris/ColorsIM-App) build in Ionic.
 
 ## Running the project
 
